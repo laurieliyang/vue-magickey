@@ -1,0 +1,29 @@
+{
+  "name": "vue-magickey",
+  "version": "0.1.0",
+  "description": "A framework helps to  set hotkeys in Vue.js ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurieliyang/vue-magickey.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework",
+    "vue",
+    "hotkey",
+    "shortcut"
+  ],
+  "author": "Laurie Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurieliyang/vue-magickey/issues"
+  },
+  "homepage": "https://github.com/laurieliyang/vue-magickey#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
